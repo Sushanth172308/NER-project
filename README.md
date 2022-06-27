@@ -10,7 +10,7 @@ DVC project template
 ### STEP 03- Create a conda environment after opening the repository in VSCODE
 
 ```bash
-conda create --prefix ./env python=3.7 -y
+conda create --prefix ./env python=3.8 -y
 ```
 
 ```bash
@@ -32,3 +32,9 @@ dvc init
 ```
 
 ### STEP 06- commit and push the changes to the remote repository
+```bash
+dvc repro
+dvc init
+dvc dag
+dvc plots diff
+'''
