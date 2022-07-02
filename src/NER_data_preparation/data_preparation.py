@@ -49,16 +49,16 @@ if __name__ == '__main__':
     except Exception as e:
         logging.exception(e)
         raise e
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+# © 2022 GitHub, Inc.
+# Terms
+# Privacy
+# Security
+# Status
+# Docs
+# Contact GitHub
+# Pricing
+# API
+# Training
+# Blog
+# About
+# Loading complete
